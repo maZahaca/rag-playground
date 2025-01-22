@@ -1,7 +1,9 @@
 # RAG Playground
 RAG Playground is used to test chunking, reranker, and other techniques while implementing the RAG pipeline.
 
-## Technologies used
+## Goals
+
+## Technologies
 - [Next.js](https://nextjs.org)
 - [Yoopta Editor](https://yoopta.dev)
 - [PostgreSQL](https://www.postgresql.org/) + [PGVector](https://github.com/pgvector/pgvector)
