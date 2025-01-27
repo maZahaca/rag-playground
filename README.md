@@ -10,3 +10,4 @@ RAG Playground is used to test chunking, reranker, and other techniques while im
 - [Langchain](https://js.langchain.com/docs/introduction/)
 - [Zerox](https://github.com/getomni-ai/zerox)
 - [Mastering RAG, e-Book](https://www.galileo.ai/mastering-rag)
+- https://www.youtube.com/watch?v=buzWGXOydD8
